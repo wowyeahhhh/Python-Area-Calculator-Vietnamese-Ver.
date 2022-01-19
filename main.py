@@ -58,7 +58,7 @@ while True:
         dien_tich_hinh_thang = chieuCao_hinhThang_int * (
             do_dai_dayHinhThang_thu_nhat_int +
             do_dai_dayHinhThang_thu_hai_int / 2)
-        print("Diện tích hình tam giác đó là: " + str(dien_tich_hinh_thang))
+        print("Diện tích hình thang đó là: " + str(dien_tich_hinh_thang))
     else:
         print("Hả?")
     choi_lai = input("Bạn có muốn tính tiếp không?\n1. Có!\n2. Không!\n(C) là có, (K) là không\n")
